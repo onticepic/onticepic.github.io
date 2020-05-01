@@ -99,16 +99,13 @@ service-worker: true
 # Friends
 friends: [
     {
-        title: "WY",
-        href: "http://zhengwuyang.com"
+        title: "Weibo",
+        href: "http://weibo.com/823358939"
     },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
+        title: "Instagram",
+        href: "http://www.instagram.com/onticepic"
     },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
+        title: "Facebook",
+        href: "http://facebook.com/profile.php?id=100007043981086"
     }
 ]
